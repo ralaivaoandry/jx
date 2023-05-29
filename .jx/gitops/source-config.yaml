@@ -8,6 +8,7 @@ spec:
     provider: https://github.com
     providerKind: github
     repositories:
+    - name: hello_php
     - name: node-http-exemple
     scheduler: in-repo
   slack:
